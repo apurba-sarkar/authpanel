@@ -1,8 +1,8 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-export default function UpdatePasword() {
+export default function UpdatePassword() {
   return (
-    <div>UpdatePasword</div>
+    <div>UpdatePassword</div>
   )
 }
